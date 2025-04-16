@@ -60,7 +60,7 @@
 </ul>
 </li>
 </ul>
-<p>[note]</p>
+
 <h3>文献の引用方法</h3>
 <p>レポートや論文を書く際には、参考にした文献や結果を引用した文献を明確にを示すことになっています。これは「知」を積み重ねていく科学の基本的な手法であり、先人に対する最低限の礼儀でもあります。</p>
 <p>引用方法<br />(下記は一例 ... 論文雑誌等では個別に書式が厳密に規定されています)</p>
@@ -69,14 +69,13 @@
 <li>論文<br />著者名, 雑誌名(イタリック), 発行年(ボールド), 巻号, 開始ページ-終了ページ.<br />例 2) Hitomi Onuma et al., <em>J. Phys. Chem. A</em>, <strong>2011</strong>, 115, 14137-14142.</li>
 <li>電子文献 (なるべく避ける)<br />URL, ページ名, わかれば著者名, 参照日時<br />例 3) <a href="http://science.shinshu-u.ac.jp/~chem/?page_id=2727">http://science.shinshu-u.ac.jp/~chem/?page_id=2727</a>, web上の有益な情報, 飯山 拓, (参照2016-04-20).<br />近年ではDOI(Digital Object Identifer)による管理も行われています。<br />例えば上のBZ反応の論文の DOI は 10.1021/jp200103s です。<br /><a href="http://dx.doi.org/10.1021/jp200103s">http://dx.doi.org/10.1021/jp200103s</a> にアクセスすれば、その論文のpdfファイルや論文情報を得ることができます。</li>
 </ul>
-<p>[/note]</p>
-<p>[help]</p>
+
 <h3>文献引用の練習</h3>
 <p>ワードを使って、ノーベル賞受賞者の論文を引用した簡単なレポートを作成してみよう。</p>
 <p>例)</p>
 <p>白川英樹は電気伝導性を持つポリマーの研究<sup>1)　</sup>を行い、2000年にノーベル化学賞を受賞した。</p>
 <p>1) C. K. Chiang, C. R. Fincher, Jr., Y. W. Park, A. J. Heeger, H. Shirakawa, E. J. Louis, S. C. Gau, Alan G. MacDiarmid, <em>Phys. Rev. Lett.</em>, <strong>1977</strong>, 39, 1098-1101.</p>
-<p>[/help]</p>
+
 <h2>その他の情報源</h2>
 <ul>
 <li>google 検索<br /><a href="http://www.google.co.jp/">http://www.google.co.jp/</a></li>
@@ -95,7 +94,7 @@
 </ul>
 </li>
 </ul>
-<p>[help]</p>
+
 <h3>練習</h3>
 <p>化学物質を一つ選び、ワードを使ってその物質の基本物性を正しい表記で書いてみよう。</p>
 <p>例)</p>
